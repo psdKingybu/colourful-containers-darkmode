@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.enderchest",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/generic_54.png"
+}

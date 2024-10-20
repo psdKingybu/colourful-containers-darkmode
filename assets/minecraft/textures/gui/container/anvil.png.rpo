@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.anvil",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/anvil.png"
+}

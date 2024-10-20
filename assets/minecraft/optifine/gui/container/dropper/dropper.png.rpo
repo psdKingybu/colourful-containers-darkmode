@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.dropper",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/dispenser.png"
+}

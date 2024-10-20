@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.stonecutter",
+    fallback: "assets/minecraft/textures/gui/sprites/container/stonecutter/darkscroller.png"
+}

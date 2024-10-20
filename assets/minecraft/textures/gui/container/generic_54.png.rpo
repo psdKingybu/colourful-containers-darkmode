@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.barrel",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/generic_54.png"
+}

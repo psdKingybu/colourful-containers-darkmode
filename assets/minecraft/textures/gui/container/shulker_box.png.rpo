@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.shulkerbox",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/shulker_box.png"
+}

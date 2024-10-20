@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.smoker",
+    fallback: "assets/minecraft/textures/gui/sprites/container/smoker/darkburn_progress.png"
+}

@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.cartographytable",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/cartography_table.png"
+}

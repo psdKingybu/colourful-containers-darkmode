@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.craftingtable",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/crafting_table.png"
+}

@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.blastfurnace",
+    fallback: "assets/minecraft/textures/gui/sprites/container/blast_furnace/darklit_progress.png"
+}

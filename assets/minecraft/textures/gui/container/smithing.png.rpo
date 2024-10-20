@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.smithingtable",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/smithing.png"
+}

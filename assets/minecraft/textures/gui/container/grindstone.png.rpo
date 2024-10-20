@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.grindstone",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/grindstone.png"
+}

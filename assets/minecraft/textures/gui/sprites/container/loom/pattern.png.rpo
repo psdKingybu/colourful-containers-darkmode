@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.loom",
+    fallback: "assets/minecraft/textures/gui/sprites/container/loom/darkpattern.png"
+}

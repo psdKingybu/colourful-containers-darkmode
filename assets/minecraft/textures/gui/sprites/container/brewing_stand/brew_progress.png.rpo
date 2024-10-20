@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.brewingstand",
+    fallback: "assets/minecraft/textures/gui/sprites/container/brewing_stand/darkbrew_progress.png"
+}

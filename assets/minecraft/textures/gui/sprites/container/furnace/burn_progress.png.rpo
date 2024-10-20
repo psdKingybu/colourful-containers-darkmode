@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.furnace",
+    fallback: "assets/minecraft/textures/gui/sprites/container/furnace/darkburn_progress.png"
+}

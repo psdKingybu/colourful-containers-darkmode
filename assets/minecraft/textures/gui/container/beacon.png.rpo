@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.beacon",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/beacon.png"
+}

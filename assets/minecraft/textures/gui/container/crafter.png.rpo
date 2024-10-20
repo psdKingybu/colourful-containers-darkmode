@@ -1,0 +1,4 @@
+{
+    condition: "guicategory.crafter",
+    fallback: "assets/minecraft/textures/gui/container/darkmodecontainers/crafter.png"
+}
